@@ -144,7 +144,7 @@ function Pulse() {
   return <div className="p2 p2-system">
     <div className="p2-head">
       <h2 className="p2-system-title">Turn pipeline data into <em>early signals</em>.</h2>
-      <a className="p2-link" href="https://attached-reggae-tries-smooth.trycloudflare.com/" target="_blank" rel="noreferrer">
+      <a className="p2-link" href="https://albert-imported-cad-shuttle.trycloudflare.com/" target="_blank" rel="noreferrer">
         Open the live Pulse dashboard <ArrowRightIcon /></a>
     </div>
     <div className="p2-system-body">
